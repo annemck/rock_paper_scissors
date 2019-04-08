@@ -1,0 +1,8 @@
+body {
+  color: rgb(222, 229, 239);
+  background-color: rgb(7, 33, 76);
+  font-family: Helvetica;
+}
+a:visited {
+  color: rgb(222, 239, 236)
+}
